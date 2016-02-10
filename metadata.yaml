@@ -1,0 +1,27 @@
+_repo: A-Catalogue-of-Books-and-Announcements-of-Methuen-and-Company-March-1897_46507
+covers:
+- cover_type: archival
+  image_path: 46507/46507-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Methuen & Co.
+    alias: Methuen and Co.
+    gutenberg_agent_id: '6250'
+    url: http://www.gutenberg.org/2009/agents/6250
+description: ''
+gutenberg_issued: '2014-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Methuen & Co. -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England'
+title: A Catalogue of Books and Announcements of Methuen and Company, March 1897
+url: http://www.gutenberg.org/ebooks/46507
